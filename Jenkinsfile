@@ -8,6 +8,7 @@ pipeline{
             // some block
             sh 'mvn clean install'
           }
-        }
-      }
+         }
+       }
+     }
 }
